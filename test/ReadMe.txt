@@ -80,6 +80,3 @@ The mapping is as follows:
 40 = roundabout (mandatory)
 41 = restriction ends (overtaking) (other)
 42 = restriction ends (overtaking (trucks)) (other)
-
-
-
